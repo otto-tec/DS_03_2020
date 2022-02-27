@@ -1,1 +1,1 @@
-# data_science. MARÇO - 2022
+# DS_LC - MODULO 6 - BANCO DE DADOS I
